@@ -2,7 +2,7 @@
 heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
-title: Our Coffee
+title: Atabazin
 image: /img/whatsapp-image-2020-06-29-at-21.09.42.jpeg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
